@@ -61,3 +61,11 @@ println(b)
 
 val c = +a // Unary plus (effectively no change)
 println(c)
+
+
+//Formatted Outputs
+val s:String = "Shiva Sai Teja"
+val formatted_s =  String.format("Name using format : %s",s)
+print(s"Name using Interpolator : $s\n") //Using interpolator
+printf("Name using printf: %s\n",s) //Using printf
+print(formatted_s) //Using format
