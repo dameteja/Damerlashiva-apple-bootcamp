@@ -50,3 +50,4 @@ val formattedBool = if (flag) "Yes" else "No"
 println(s"Formatted Boolean as Yes/No: $formattedBool")  // Outputs: Formatted Boolean as Yes/No: Yes
 val formattedString1 = String.format("Boolean using format function: %b", flag)
 println(formattedString1)  // Outputs: Boolean using format function: true
+
