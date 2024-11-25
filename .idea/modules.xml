@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basic Scala.iml" filepath="$PROJECT_DIR$/.idea/modules/Basic Scala.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basic Scala.Basic Scala-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Basic Scala.Basic Scala-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/damerlashiva-apple-bootcamp.iml" filepath="$PROJECT_DIR$/.idea/modules/damerlashiva-apple-bootcamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/damerlashiva-apple-bootcamp.damerlashiva-apple-bootcamp-build.iml" filepath="$PROJECT_DIR$/.idea/modules/damerlashiva-apple-bootcamp.damerlashiva-apple-bootcamp-build.iml" />
     </modules>
   </component>
 </project>
