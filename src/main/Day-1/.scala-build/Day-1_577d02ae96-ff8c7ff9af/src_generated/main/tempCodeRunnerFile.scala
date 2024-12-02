@@ -4,16 +4,15 @@ final class tempCodeRunnerFile$_ {
 def args = tempCodeRunnerFile_sc.args$
 def scriptPath = """c:\Users\damerlashiva.s\Documents\firstproject\Damerlashiva-apple-bootcamp\src\main\Day-1\tempCodeRunnerFile.sc"""
 /*<script>*/
-val person = ("Alice", 30, "Engineer")
-
-// Accessing elements
-println(person._1) 
-println(person._2) 
-println(person._3) 
-
-// Destructuring a tuple
-val (name, age, profession) = person //(gattering all together with diffrent aspects of values with diffrent types)
-println(s"$name is $age years old and works as a $profession.")
+val x:Array[Int] = Array(1,2,3,4)
+val y = Array("shiva","sai")
+for(m1 <- x){
+    print(s" $m1")
+}
+println("")
+for(m1 <- y){
+    print(s" $m1")
+}
 /*</script>*/ /*<generated>*//*</generated>*/
 }
 
